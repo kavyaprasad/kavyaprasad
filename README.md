@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kavyaprasad/kavyaprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Image Identification, classification & segmentation using Deep learning.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
